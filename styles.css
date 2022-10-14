@@ -15,8 +15,8 @@ body {
 
 header {
     padding: 50px;
-    background-color: rgb(107, 41, 61);
-    color: white;
+    background-color: rgb(37, 161, 48);
+    color: rgb(72, 34, 131);
     text-align: center;
     margin-bottom: 20px;
 }
@@ -48,7 +48,7 @@ h1, h2, h3, h4, p{
 label {
     display: block;
     margin-bottom: .5em;
-    color:rgb(242, 227, 166);
+    color:rgb(190, 110, 44);
     font-family: 'Fira Sans', sans-serif;
 }
 
@@ -56,7 +56,7 @@ input, textarea, #details_form button {
     display: block;
     width: 100%;
     margin-bottom: 1em;
-    border: 1px solid #666 ;
+    border: 1px solid rgb(146, 67, 67) ;
     padding: 10px;
     box-sizing: border-box;
 }
@@ -75,7 +75,7 @@ input, textarea, #details_form button {
    }
 
    h2{
-       color:rgb(242, 227, 166);
+       color:rgb(50, 20, 120);
    }
 
    h3, h4 {
@@ -92,7 +92,7 @@ input, textarea, #details_form button {
    }
 
    #btn:hover{
-       background-color: rgb(119, 116, 116);
+       background-color: rgb(20, 6, 6);
    }
 
   
