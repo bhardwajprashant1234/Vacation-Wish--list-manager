@@ -10,7 +10,7 @@ img {
 
 body {
     font-family: Arial;
-    color: #333;
+    color: rgb(39, 38, 38);
 }
 
 header {
@@ -48,7 +48,7 @@ h1, h2, h3, h4, p{
 label {
     display: block;
     margin-bottom: .5em;
-    color:cornsilk;
+    color:rgb(242, 227, 166);
     font-family: 'Fira Sans', sans-serif;
 }
 
@@ -68,14 +68,14 @@ input, textarea, #details_form button {
 }
 
 .bg{
-    background-image: url('https://i.pinimg.com/originals/01/5a/17/015a1757e67f766a12621af543b3a5fd.jpg');
+    background-image: url('https://images7.alphacoders.com/617/617537.jpg');
     background-repeat: no-repeat;
     background-size: 100% , 100%;
 
    }
 
    h2{
-       color:cornsilk;
+       color:rgb(242, 227, 166);
    }
 
    h3, h4 {
